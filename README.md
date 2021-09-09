@@ -1,8 +1,8 @@
-### Oii, eu sou a Carol 👋
+## Oii, eu sou a Carol 👋
 
-💻 Trabalhando no mundo do Front-End
-📚 Atualmente estudando ReactJs
-🎓 Estudando Engenharia de Software
+* 💻  Trabalhando no mundo do Front-End
+* 📚  Atualmente estudando ReactJs
+* 🎓  Estudando Engenharia de Software
 
 
 
